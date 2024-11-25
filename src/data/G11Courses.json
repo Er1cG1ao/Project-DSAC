@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Chinese",
+    "courses": [
+      {
+        "title": "Language & Literature HL",
+        "path": "blank for now"
+      },
+      {
+        "title": "Language & Literature SL",
+        "path": "./data/G11/Language & Literature SL.json"
+      },
+      {
+        "title": "Literature HL",
+        "path": "./path/to/Literature HL.json"
+      },
+      {
+        "title": "Literature SL",
+        "path": "./path/to/Literature SL.json"
+      },
+      {
+        "title": "B HL",
+        "path": "./path/to/B HL.json"
+      },
+      {
+        "title": "B SL",
+        "path": "./path/to/B SL.json"
+      },
+      {
+        "title": "AB Intro",
+        "path": "./path/to/AB Intro.json"
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "courses": [
+      {
+        "title": "A HL & SL",
+        "path": "./path/to/A HL & SL.json"
+      },
+      {
+        "title": "B HL & SL",
+        "path": "./data/G11 Courses/G11_EN_B_HLSL.json"
+      }
+    ]
+  },
+  {
+    "name": "Math",
+    "courses": [
+      {
+        "title": "AA HL",
+        "path": "./path/to/AA HL.json"
+      },
+      {
+        "title": "AA SL Kelby",
+        "path": "./path/to/AA SL Kelby.json"
+      },
+      {
+        "title": "AA SL Edition",
+        "path": "./path/to/AA SL Edition.json"
+      },
+      {
+        "title": "AI HL",
+        "path": "./path/to/AI HL.json"
+      },
+      {
+        "title": "AI SL",
+        "path": "./path/to/AI SL.json"
+      }
+    ]
+  },
+  {
+    "name": "Humanities",
+    "courses": [
+      {
+        "title": "BM Megan",
+        "path": "./path/to/BM Megan.json"
+      },
+      {
+        "title": "BM Jorge",
+        "path": "./path/to/BM Jorge.json"
+      },
+      {
+        "title": "Economics Jeff",
+        "path": "./path/to/Economics Jeff.json"
+      },
+      {
+        "title": "Economics Benard",
+        "path": "./path/to/Economics Benard.json"
+      },
+      {
+        "title": "History HL George",
+        "path": "./path/to/History HL George.json"
+      },
+      {
+        "title": "History SL George",
+        "path": "./path/to/History SL George.json"
+      },
+      {
+        "title": "History HL Sagingaly",
+        "path": "./path/to/History HL Sagingaly.json"
+      },
+      {
+        "title": "History SL Sagingaly",
+        "path": "./path/to/History SL Sagingaly.json"
+      },
+      {
+        "title": "Psychology HL",
+        "path": "./path/to/Psychology HL.json"
+      },
+      {
+        "title": "Psychology SL",
+        "path": "./path/to/Psychology SL.json"
+      },
+      {
+        "title": "Geography HL",
+        "path": "./path/to/Geography HL.json"
+      },
+      {
+        "title": "Geography SL",
+        "path": "./path/to/Geography SL.json"
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "courses": [
+      {
+        "title": "BIO HL",
+        "path": "./path/to/BIO HL.json"
+      },
+      {
+        "title": "BIO SL",
+        "path": "./path/to/BIO SL.json"
+      },
+      {
+        "title": "Chemistry HL",
+        "path": "./path/to/Chemistry HL.json"
+      },
+      {
+        "title": "Chemistry SL",
+        "path": "./path/to/Chemistry SL.json"
+      },
+      {
+        "title": "CS HL",
+        "path": "./path/to/CS HL.json"
+      },
+      {
+        "title": "CS SL",
+        "path": "./path/to/CS SL.json"
+      },
+      {
+        "title": "DT HL & SL",
+        "path": "./path/to/DT HL & SL.json"
+      },
+      {
+        "title": "ESS HL",
+        "path": "./path/to/ESS HL.json"
+      },
+      {
+        "title": "ESS SL",
+        "path": "./path/to/ESS SL.json"
+      },
+      {
+        "title": "Physics HL",
+        "path": "./path/to/Physics HL.json"
+      },
+      {
+        "title": "Physics SL",
+        "path": "./path/to/Physics SL.json"
+      }
+    ]
+  },
+  {
+    "name": "Art",
+    "courses": [
+      {
+        "title": "Theater HL",
+        "path": "./path/to/Theater HL.json"
+      },
+      {
+        "title": "Theater SL",
+        "path": "./path/to/Theater SL.json"
+      },
+      {
+        "title": "Visual Art HL & SL",
+        "path": "./path/to/Visual Art HL & SL.json"
+      },
+      {
+        "title": "Music HL",
+        "path": "./path/to/Music HL.json"
+      },
+      {
+        "title": "Music SL",
+        "path": "./path/to/Music SL.json"
+      }
+    ]
+  }
+]
