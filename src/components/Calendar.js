@@ -6,6 +6,7 @@ const Calendar = () => {
     const location = useLocation();
     const navigate = useNavigate();
     const selectedCourses = location.state?.selectedCourses || [];
+    const selectedGrade = location.state?.grade; // Capture the selected grade
     const [exams, setExams] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -43,7 +44,12 @@ const Calendar = () => {
     }, [selectedCourses]);
 
     const handleModifySelection = () => {
-        navigate(`/subjects`, { state: { selectedCourses } });
+        if (selectedGrade) {
+            navigate(`/subjects/${selectedGrade}`, { state: { selectedCourses } }); // Use selectedGrade in the URL
+        } else {
+            console.error('Selected grade is undefined');
+            // Handle the error case as needed, maybe navigate to an error page or show a message
+        }
     };
 
     if (loading) {
