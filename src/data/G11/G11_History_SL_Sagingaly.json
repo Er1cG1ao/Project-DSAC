@@ -1,0 +1,24 @@
+{
+  "assessments": [
+    {
+      "date": "2024-10-17",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2024-11-14",
+      "description": "P1 + half of P2"
+    },
+    {
+      "date": "2025-1-16",
+      "description": "Paper 2"
+    },
+    {
+      "date": "2025-4-18",
+      "description": "Paper 2"
+    },
+    {
+      "date": "2025-5-12",
+      "description": "Paper 3"
+    }
+  ]
+}

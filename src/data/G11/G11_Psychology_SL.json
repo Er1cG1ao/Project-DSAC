@@ -1,0 +1,60 @@
+{
+  "assessments": [
+    {
+      "date": "2024-10-16",
+      "description": "Research Methods Quiz"
+    },
+    {
+      "date": "2024-10-17",
+      "description": "Research Methods Quiz"
+    },
+    {
+      "date": "2024-11-4",
+      "description": "Research Methods Exam"
+    },
+    {
+      "date": "2024-11-5",
+      "description": "Research Methods Exam"
+    },
+    {
+      "date": "2024-12-11",
+      "description": "Encultural Quiz"
+    },
+    {
+      "date": "2024-12-12",
+      "description": "Encultural Quiz"
+    },
+    {
+      "date": "2025-1-14",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2025-1-15",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2025-3-12",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2025-3-13",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2025-4-9",
+      "description": "Neurotransmitters & Hormones Quiz"
+    },
+    {
+      "date": "2025-4-10",
+      "description": "Neurotransmitters & Hormones Quiz"
+    },
+    {
+      "date": "2025-5-12",
+      "description": "Paper 1"
+    },
+    {
+      "date": "2025-5-13",
+      "description": "Paper 1"
+    }
+  ]
+}

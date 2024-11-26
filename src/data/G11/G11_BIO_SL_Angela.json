@@ -1,0 +1,32 @@
+{
+  "assessments": [
+    {
+      "date": "2024-9-18",
+      "description": "Project"
+    },
+    {
+      "date": "2024-10-29",
+      "description": "Unit 1 Topic Test"
+    },
+    {
+      "date": "2024-12-6",
+      "description": "Unit 2 Test"
+    },
+    {
+      "date": "2025-1-10",
+      "description": "Lab Report"
+    },
+    {
+      "date": "2025-2-25",
+      "description": "Lab report/project"
+    },
+    {
+      "date": "2025-3-20",
+      "description": "Unit 3 Test"
+    },
+    {
+      "date": "2025-5-6",
+      "description": "Lab report"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "assessments": [
+    {
+      "date": "2024-10-30",
+      "description": "PP-FORM-Crit A"
+    },
+    {
+      "date": "2024-11-27",
+      "description": "PP-FORM-Crit B"
+    },
+    {
+      "date": "2025-1-9",
+      "description": "PP-SUM-Draft"
+    },
+    {
+      "date": "2025-2-20",
+      "description": "PP-SUM-Final"
+    },
+    {
+      "date": "2025-3-27",
+      "description": "RP-SUM-Crit A"
+    },
+    {
+      "date": "2025-4-28",
+      "description": "RP-SUM-Crit B"
+    },
+    {
+      "date": "2025-5-9",
+      "description": "RP-SUM-Crit C"
+    }
+  ]
+}
