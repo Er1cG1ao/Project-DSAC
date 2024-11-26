@@ -1,8 +1,9 @@
 // src/App.js
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import GradeSelector from './components/GradeSelector';
 import SubjectPage from './components/SubjectPage';
+import Calendar from './components/Calendar'; // 导入 Calendar 组件
 import './index.css';
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
                 <Routes>
                     <Route path="/" element={<GradeSelector onChange={handleGradeChange} />} />
                     <Route path="/subjects/:grade" element={<SubjectPage />} />
+                    <Route path="/:grade/calendar" element={<Calendar />} /> {/* 新增的 Calendar 路由 */}
                 </Routes>
             </div>
         </Router>
