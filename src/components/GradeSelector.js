@@ -1,12 +1,10 @@
-// src/components/GradeSelector.js
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-const GradeSelector = ({ onChange }) => {
+const GradeSelector = () => {
     const navigate = useNavigate();
 
     const handleGradeSelect = (selectedGrade) => {
-        onChange(selectedGrade);
         navigate(`/subjects/${selectedGrade}`); // Navigate to the specific subjects page
     };
 

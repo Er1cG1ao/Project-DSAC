@@ -1,0 +1,56 @@
+{
+  "assessments": [
+    {
+      "date": "2024-9-20",
+      "description": "Criterion A1"
+    },
+    {
+      "date": "2024-10-21",
+      "description": "Criterion B1"
+    },
+    {
+      "date": "2024-10-31",
+      "description": "Criterion C1"
+    },
+    {
+      "date": "2024-11-26",
+      "description": "Criterion A2"
+    },
+    {
+      "date": "2024-12-6",
+      "description": "Criterion B1"
+    },
+    {
+      "date": "2025-1-6",
+      "description": "Criterion C2"
+    },
+    {
+      "date": "2025-1-9",
+      "description": "PP Unit 1"
+    },
+    {
+      "date": "2025-2-17",
+      "description": "Criterion A3"
+    },
+    {
+      "date": "2025-2-28",
+      "description": "Criterion B3"
+    },
+    {
+      "date": "2025-3-17",
+      "description": "Criterion C3"
+    },
+    {
+      "date": "2025-3-28",
+      "description": "Criterion D"
+    },
+    {
+      "date": "2025-5-5",
+      "description": "PP Unit 2"
+    },
+    {
+      "date": "2025-5-9",
+      "description": "Criterion F"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "assessments": [
+    {
+      "date": "2024-9-20",
+      "description": "Quiz: S1.1 & S1.4"
+    },
+    {
+      "date": "2024-10-31",
+      "description": "Empirical Formula"
+    },
+    {
+      "date": "2024-11-26",
+      "description": "Lab: Molar mass of volatile liquid"
+    },
+    {
+      "date": "2024-12-5",
+      "description": "U1 U2 Test"
+    },
+    {
+      "date": "2025-1-9",
+      "description": "U3 Test: Bonding"
+    },
+    {
+      "date": "2025-2-27",
+      "description": "Unit 4 Test: Periodicity"
+    },
+    {
+      "date": "2025-3-28",
+      "description": "Lab report: Combustion of alcohols"
+    },
+    {
+      "date": "2025-5-6",
+      "description": "Unit 5 Test: Energetics"
+    }
+  ]
+}

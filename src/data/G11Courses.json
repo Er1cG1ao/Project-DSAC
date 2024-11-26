@@ -4,11 +4,11 @@
     "courses": [
       {
         "title": "Language & Literature HL",
-        "path": "../data/G11/G11_CH_LL_HL.json"
+        "path": "data/G11/G11_CH_LL_HL.json"
       },
       {
         "title": "Language & Literature SL",
-        "path": "../data/G11/Language & Literature SL.json"
+        "path": "data/G11/Language & Literature SL.json"
       },
       {
         "title": "Literature HL",

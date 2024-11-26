@@ -1,0 +1,32 @@
+{
+  "assessments": [
+    {
+      "date": "2024-10-22",
+      "description": "EMC Creating"
+    },
+    {
+      "date": "2024-10-30",
+      "description": "Composition Draft"
+    },
+    {
+      "date": "2024-12-5",
+      "description": "EMC Performing"
+    },
+    {
+      "date": "2025-1-7",
+      "description": "Composition Final"
+    },
+    {
+      "date": "2025-2-28",
+      "description": "EMC Final"
+    },
+    {
+      "date": "2025-3-27",
+      "description": "Composition 2 Draft"
+    },
+    {
+      "date": "2025-5-7",
+      "description": "CMM Project Proposal"
+    }
+  ]
+}
