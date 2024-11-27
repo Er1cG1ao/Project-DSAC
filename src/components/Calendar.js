@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import allData from '../data/G11AllData.json'; // Import the all data JSON
 
@@ -10,6 +10,7 @@ const Calendar = () => {
     const [exams, setExams] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
+    const boxRef = useRef(null);
 
     useEffect(() => {
         const fetchExams = () => {
@@ -47,12 +48,20 @@ const Calendar = () => {
         }
     }, [selectedCourses]);
 
+    useEffect(() => {
+        if (boxRef.current) {
+            const longestLine = [...boxRef.current.children].reduce((maxWidth, current) => {
+                return Math.max(maxWidth, current.scrollWidth);
+            }, 0);
+            boxRef.current.style.width = `${longestLine}px`;
+        }
+    }, [exams]);
+
     const handleModifySelection = () => {
         if (selectedGrade) {
             navigate(`/subjects/${selectedGrade}`, { state: { selectedCourses } }); // Use selectedGrade in the URL
         } else {
             console.error('Selected grade is undefined');
-            // Handle the error case as needed, maybe navigate to an error page or show a message
         }
     };
 
@@ -65,25 +74,39 @@ const Calendar = () => {
     }
 
     return (
-        <div className="p-6">
-            <h2 className="text-2xl font-bold text-center mb-4">Upcoming Exams</h2>
-            <button
-                onClick={handleModifySelection}
-                className="block mx-auto mb-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        <div className="flex h-screen w-full" style={{ margin: 0, padding: 0 }}>
+            {/* Scrollable Box with Adaptive Width, aligned to the left */}
+            <div
+                ref={boxRef}
+                className="overflow-y-auto border-r border-gray-300 h-screen"
+                style={{
+                    whiteSpace: 'nowrap',
+                    padding: '1rem',
+                    margin: 0,
+                    minWidth: 'fit-content'
+                }}
             >
-                Modify Selection
-            </button>
-            {exams.length === 0 ? (
-                <p>No upcoming exams.</p>
-            ) : (
-                <div className="overflow-y-auto max-h-60 border border-gray-300 p-4">
-                    {exams.map((exam, index) => (
-                        <div key={index} className="mb-2 text-left">
+                <h2 className="text-xl font-bold mb-4">Upcoming Exams</h2> {/* Moved into the box */}
+                {exams.length === 0 ? (
+                    <p>No upcoming exams.</p>
+                ) : (
+                    exams.map((exam, index) => (
+                        <div key={index} className="mb-2 text-left" style={{ whiteSpace: 'nowrap' }}>
                             <strong>{exam.date}</strong>: {exam.course}: {exam.description}
                         </div>
-                    ))}
-                </div>
-            )}
+                    ))
+                )}
+            </div>
+
+            {/* Main Content */}
+            <div className="flex-1 p-6">
+                <button
+                    onClick={handleModifySelection}
+                    className="block mb-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                >
+                    Modify Selection
+                </button>
+            </div>
         </div>
     );
 };
