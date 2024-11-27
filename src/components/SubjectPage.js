@@ -58,7 +58,11 @@ const SubjectPage = () => {
 
     const handleSubmit = () => {
         const coursesToSend = Object.values(selectedCourses).filter(course => course !== '');
-        navigate('/calendar', { state: { selectedCourses: coursesToSend, grade } }); // Pass the grade
+        if (coursesToSend.length > 0) {
+            navigate('/calendar', { state: { selectedCourses: coursesToSend, grade } }); // Pass the grade
+        } else {
+            alert('Please select at least one course before confirming your selection.'); // Alert if no course is selected
+        }
     };
 
     return (
