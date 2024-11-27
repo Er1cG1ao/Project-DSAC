@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import allData from '../data/G11AllData.json'; // Adjust based on your actual path
+import allData from '../data/G11AllData.json';
 
 const Notification = ({ message, visible }) => {
     return (
@@ -10,39 +10,38 @@ const Notification = ({ message, visible }) => {
     );
 };
 
-const SubjectPage = () => {
+const SubjectPage = ({ selectedCourses, onCourseChange }) => {
     const navigate = useNavigate();
-    const { grade } = useParams(); // Get grade from URL params
-    const [selectedCourses, setSelectedCourses] = useState({});
+    const { grade } = useParams();
+    const [courses, setCourses] = useState({});
     const [subjects, setSubjects] = useState(Object.keys(allData));
     const [personalKey, setPersonalKey] = useState('');
     const [notificationVisible, setNotificationVisible] = useState(false);
 
     useEffect(() => {
-        // Initialize selectedCourses based on subjects
         const initialCourses = {};
         subjects.forEach(subject => {
-            initialCourses[subject] = ''; // Set initial value to an empty string
+            initialCourses[subject] = selectedCourses[subject] || ''; // Load from props
         });
-        setSelectedCourses(initialCourses);
-    }, [subjects]);
+        setCourses(initialCourses);
+    }, [subjects, selectedCourses]);
 
     const handleCourseSelection = (subject, course) => {
-        setSelectedCourses(prev => ({
+        setCourses(prev => ({
             ...prev,
             [subject]: course
         }));
-        generatePersonalKey({ ...selectedCourses, [subject]: course });
+        generatePersonalKey({ ...courses, [subject]: course });
     };
 
     const generatePersonalKey = (courses) => {
-        const keyParts = [grade]; // Start with the grade
+        const keyParts = [grade];
         subjects.forEach(subject => {
             if (courses[subject]) {
-                keyParts.push(courses[subject]); // Add only if a course is selected
+                keyParts.push(courses[subject]);
             }
         });
-        setPersonalKey(keyParts.join(';')); // Join with semicolon
+        setPersonalKey(keyParts.join(';'));
     };
 
     const handleCopyKey = () => {
@@ -51,17 +50,18 @@ const SubjectPage = () => {
                 setNotificationVisible(true);
                 setTimeout(() => {
                     setNotificationVisible(false);
-                }, 1000); // Hide after 1 second
+                }, 1000);
             })
             .catch(err => console.error('Failed to copy: ', err));
     };
 
     const handleSubmit = () => {
-        const coursesToSend = Object.values(selectedCourses).filter(course => course !== '');
+        const coursesToSend = Object.values(courses).filter(course => course !== '');
         if (coursesToSend.length > 0) {
-            navigate('/calendar', { state: { selectedCourses: coursesToSend, grade } }); // Pass the grade
+            onCourseChange(coursesToSend);
+            navigate('/calendar', { state: { grade } });
         } else {
-            alert('Please select at least one course before confirming your selection.'); // Alert if no course is selected
+            alert('Please select at least one course before confirming your selection.');
         }
     };
 
@@ -73,7 +73,7 @@ const SubjectPage = () => {
                     <div key={subject} className="mb-4 p-4 border rounded shadow">
                         <h2 className="text-2xl font-semibold">{subject}</h2>
                         <select
-                            value={selectedCourses[subject]}
+                            value={courses[subject]}
                             onChange={(e) => handleCourseSelection(subject, e.target.value)}
                             className="mt-2 p-2 border rounded w-full"
                         >
@@ -87,7 +87,6 @@ const SubjectPage = () => {
                     </div>
                 ))}
             </div>
-            {/* Personal Key Display Box */}
             <div className="mb-4 p-4 border rounded bg-gray-100 flex flex-col items-center justify-center">
                 <h3 className="font-semibold text-center">Your Personal Key:</h3>
                 <p className="text-lg text-center">{personalKey}</p>

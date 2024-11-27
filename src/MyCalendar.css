@@ -1,0 +1,52 @@
+/* FullCalendar custom styles */
+
+/* Increase font size for event titles */
+.fc-event-title {
+    font-size: 0.7rem; /* Adjust the size as needed */
+    font-weight: bold;
+}
+
+/* Increase font size for calendar dates */
+.fc-daygrid-day-number {
+    font-size: 1.2rem; /* Adjust the size as needed */
+}
+
+/* Increase font size for the header (month/week/day titles) */
+.fc-toolbar-title {
+    font-size: 1.5rem; /* Adjust the size as needed */
+    font-weight: bold;
+}
+/* Change cursor on hover */
+.fc-daygrid-day:hover {
+    cursor: pointer; /* Pointer cursor for better UX */
+}
+/* Make events look bigger */
+.fc-event {
+    padding: 1px; /* Add padding around events */
+    font-size: 1.1rem; /* Adjust the font size for events */
+}
+
+/* Adjust the overall calendar cell size */
+.fc-daygrid-day {
+    min-height: 200px; /* Increase the day cell size */
+}
+
+/* Optional: Style the calendar background */
+.fc-view-harness {
+    background-color: #f9f9f9; /* Light gray background */
+}
+.fc{
+    max-height:90%;
+}
+
+/* Styles for CodeDay label */
+.codeday-label {
+    position: absolute; /* Position it absolutely within the cell */
+    top: 5px; /* Adjust as needed */
+    left: 5px; /* Adjust as needed */
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    padding: 2px 4px; /* Padding around the label */
+    font-size: 0.8rem; /* Adjust font size */
+    border-radius: 3px; /* Rounded corners */
+    z-index: 10; /* Ensure it appears above other elements */
+}
