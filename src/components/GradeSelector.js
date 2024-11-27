@@ -68,6 +68,22 @@ const GradeSelector = ({ onGradeChange }) => {
                     Submit Key
                 </button>
             </div>
+
+            {/* Footer Section */}
+            <div className="fixed bottom-0 left-0 right-0 text-center text-sm p-1 bg-white shadow">
+                <a href="https://github.com/Er1cG1ao/Project-DSAC" className="block">
+                    Version 0.0.1 Beta
+                </a>
+                <span className="block mb-0">
+                    Developed by <a href="https://github.com/williamcompsci" className="text-black">williamcompsci</a> & <a href="https://github.com/Er1cG1ao" className="text-black">Er1cG1ao</a>
+                </span>
+                <div className="flex justify-center items-center ">
+                    <a href="https://keycas.cn/" className="mr-1">
+                        Powered by KeyCAS
+                    </a>
+                    <img src="assets/Keystone Blue Round Black.png" alt="KeyCAS Logo" className="h-6 w-auto" />
+                </div>
+            </div>
         </div>
     );
 };
