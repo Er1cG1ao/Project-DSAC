@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, useLocation, Link } from 'react-router-dom';
 import GradeSelector from './components/GradeSelector';
 import SubjectPage from './components/SubjectPage';
 import Calendar from './components/Calendar';
@@ -10,7 +10,9 @@ const Title = () => {
     return (
         <>
             {location.pathname !== '/calendar' && (
-                <h1 className="text-3xl font-bold mb-4">Project D.S.A.C</h1>
+                <Link to="/" className="text-4xl font-bold mb-4">
+                    Project D.S.A.C
+                </Link>
             )}
         </>
     );
