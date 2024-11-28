@@ -1,14 +1,13 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 
 const GradeSelector = ({ onGradeChange }) => {
     const navigate = useNavigate();
     const location = useLocation();
-    const [personalKey, setPersonalKey] = useState('');
-    const [selectedGrade, setSelectedGrade] = useState(location.state?.selectedGrade || '');
-    const [selectedCourses, setSelectedCourses] = useState(location.state?.selectedCourses || []);
+    const [selectedGrade, setSelectedGrade] = React.useState(location.state?.selectedGrade || '');
+    const [selectedCourses, setSelectedCourses] = React.useState(location.state?.selectedCourses || []);
 
-    useEffect(() => {
+    React.useEffect(() => {
         if (location.state) {
             setSelectedGrade(location.state.selectedGrade || '');
             setSelectedCourses(location.state.selectedCourses || []);
@@ -18,21 +17,7 @@ const GradeSelector = ({ onGradeChange }) => {
     const handleGradeSelect = (grade) => {
         setSelectedGrade(grade);
         onGradeChange(grade); // Update the grade in App.js
-        navigate(`/subjects/${grade}`);
-    };
-
-    const handleKeyInput = () => {
-        const parts = personalKey.split(';');
-        if (parts.length === 7) {
-            const grade = parts[0];
-            const courses = parts.slice(1);
-            setSelectedGrade(grade);
-            setSelectedCourses(courses);
-            onGradeChange(grade); // Update the grade in App.js
-            navigate('/calendar', { state: { selectedCourses: courses, selectedGrade: grade } });
-        } else {
-            alert('Invalid key format. Please use the format: Grade level;Chinese course;English Course;Math course;Humanities course;Science course;Art course');
-        }
+        navigate(`/subjects/${grade}`, { state: { selectedCourses, selectedGrade: grade } });
     };
 
     return (
@@ -51,21 +36,6 @@ const GradeSelector = ({ onGradeChange }) => {
                     onClick={() => handleGradeSelect('Grade 12')}
                 >
                     Grade 12
-                </button>
-            </div>
-            <div className="mb-4">
-                <input
-                    type="text"
-                    value={personalKey}
-                    onChange={(e) => setPersonalKey(e.target.value)}
-                    placeholder="Or input your personalised key directly"
-                    className="p-2 border rounded w-full"
-                />
-                <button
-                    onClick={handleKeyInput}
-                    className="mt-2 px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"
-                >
-                    Submit Key
                 </button>
             </div>
 

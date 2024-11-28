@@ -1,8 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
-import MyCalendar from './MyCalendar'; // Import the FullCalendar component
+import MyCalendar from './MyCalendar';
 import allData from '../data/G11AllData.json';
-
 const Calendar = ({ selectedCourses, selectedGrade }) => {
     const navigate = useNavigate();
     const [exams, setExams] = useState([]);
@@ -11,6 +10,12 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
     const boxRef = useRef(null);
 
     useEffect(() => {
+        if (selectedCourses.length === 0) {
+            setLoading(false);
+            setError('No courses selected. Please go back and select courses.');
+            return;
+        }
+
         const fetchExams = () => {
             let allExams = [];
             try {
@@ -18,10 +23,12 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
                     for (const subject in allData) {
                         const courseData = allData[subject]?.courses[course];
                         if (courseData) {
-                            allExams = allExams.concat(courseData.assessments.map(assessment => ({
-                                ...assessment,
-                                course: course
-                            })));
+                            allExams = allExams.concat(
+                                courseData.assessments.map(assessment => ({
+                                    ...assessment,
+                                    course,
+                                }))
+                            );
                         }
                     }
                 });
@@ -36,11 +43,7 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
             }
         };
 
-        if (selectedCourses.length > 0) {
-            fetchExams();
-        } else {
-            setLoading(false);
-        }
+        fetchExams();
     }, [selectedCourses]);
 
     const handleModifySelection = () => {
@@ -63,11 +66,10 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
         <div className="flex flex-col h-full">
             <div className="flex flex-grow overflow-hidden">
                 <div
-                    ref={boxRef}
-                    className="overflow-y-auto border-r border-gray-300 h-full w-1/5 p-4" // Adjusted to 1/5 width
+                    className="overflow-y-auto border-r border-gray-300 h-full w-1/5 p-4"
                     style={{
                         whiteSpace: 'nowrap',
-                        minWidth: 'fit-content'
+                        minWidth: 'fit-content',
                     }}
                 >
                     <h2 className="text-xl font-bold mb-4">Upcoming Exams</h2>
@@ -82,11 +84,13 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
                     )}
                 </div>
 
-                <div className="flex-1 p-8 overflow-auto w-4/5"> {/* Adjusted to 4/5 width */}
-                    <MyCalendar events={exams.map(exam => ({
-                        title: exam.course+" "+exam.description,
-                        date: exam.date,
-                    }))} />
+                <div className="flex-1 p-8 overflow-auto w-4/5">
+                    <MyCalendar
+                        events={exams.map(exam => ({
+                            title: `${exam.course} ${exam.description}`,
+                            date: exam.date,
+                        }))}
+                    />
                 </div>
             </div>
 
@@ -101,5 +105,6 @@ const Calendar = ({ selectedCourses, selectedGrade }) => {
         </div>
     );
 };
+
 
 export default Calendar;

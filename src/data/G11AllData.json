@@ -12,7 +12,7 @@
             "description": "Unit 1 Paper 1"
           },
           {
-            "date": "2025-2-26",
+            "date": "2025-02-26",
             "description": "Unit 2 HL Essay"
           },
           {
@@ -20,15 +20,15 @@
             "description": "Unit 2 IO (Liangfang)"
           },
           {
-            "date": "2025-3-21",
+            "date": "2025-03-21",
             "description": "Unit 2 IO (Jessie)"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 3 Paper 1"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "Unit 3 Paper 1"
           }
         ]
@@ -84,11 +84,11 @@
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-05-7",
+            "date": "2025-05-07",
             "description": "Unit 3 Paper 1"
           },
           {
-            "date": "2025-05-8",
+            "date": "2025-05-08",
             "description": "Unit 3 Paper 1"
           }
         ]
@@ -104,39 +104,39 @@
             "description": "Unit 1 Paper 1"
           },
           {
-            "date": "2025-2-26",
+            "date": "2025-02-26",
             "description": "Unit 2 HL Essay"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Unit 2 HL Essay"
           },
           {
-            "date": "2025-3-24",
+            "date": "2025-03-24",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-25",
+            "date": "2025-03-25",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-26",
+            "date": "2025-03-26",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 3 Paper 1"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "Unit 3 Paper 1"
           }
         ]
@@ -152,31 +152,31 @@
             "description": "Unit 1 Paper 1"
           },
           {
-            "date": "2025-3-24",
+            "date": "2025-03-24",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-25",
+            "date": "2025-03-25",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-26",
+            "date": "2025-03-26",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Unit 2 IO"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 3 Paper 1"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "Unit 3 Paper 1"
           }
         ]
@@ -184,19 +184,19 @@
       "B HL": {
         "assessments": [
           {
-            "date": "2024-12-3",
+            "date": "2024-12-03",
             "description": "Unit 1 Paper 2"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "Unit 2 Paper 1"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "Unit 3 IO"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "Unit 3 IO"
           }
         ]
@@ -204,19 +204,19 @@
       "B SL": {
         "assessments": [
           {
-            "date": "2024-12-3",
+            "date": "2024-12-03",
             "description": "Unit 1 Paper 2"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "Unit 2 Paper 1"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 3 IO"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "Unit 3 IO"
           }
         ]
@@ -224,15 +224,15 @@
       "AB Intro": {
         "assessments": [
           {
-            "date": "2024-12-3",
+            "date": "2024-12-03",
             "description": "Unit 1 Test"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "Unit 2 Test"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "Unit 3 Test"
           }
         ]
@@ -244,11 +244,11 @@
       "A HL & SL": {
         "assessments": [
           {
-            "date": "2024-10-8",
+            "date": "2024-10-08",
             "description": "Paper 1 FORM"
           },
           {
-            "date": "2024-10-9",
+            "date": "2024-10-09",
             "description": "Paper 1 FORM"
           },
           {
@@ -276,27 +276,27 @@
             "description": "IO SUM"
           },
           {
-            "date": "2025-3-10",
+            "date": "2025-03-10",
             "description": "IO FORM"
           },
           {
-            "date": "2025-3-11",
+            "date": "2025-03-11",
             "description": "IO FORM"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Paper 1 SUM"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Paper 1 SUM"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1 FORM"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "Paper 1 FORM"
           }
         ]
@@ -320,7 +320,7 @@
             "description": "SUM Reading"
           },
           {
-            "date": "2024-12-9",
+            "date": "2024-12-09",
             "description": "SUM Writing"
           },
           {
@@ -328,27 +328,27 @@
             "description": "SUM Writing"
           },
           {
-            "date": "2025-3-10",
+            "date": "2025-03-10",
             "description": "IO FORM"
           },
           {
-            "date": "2025-3-11",
+            "date": "2025-03-11",
             "description": "IO FORM"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Paper 1 SUM"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Paper 1 SUM"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1 FORM"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "Paper 1 FORM"
           }
         ]
@@ -364,7 +364,7 @@
             "description": "SUM Test 1"
           },
           {
-            "date": "2024-11-6",
+            "date": "2024-11-06",
             "description": "SUM Test 2"
           },
           {
@@ -372,7 +372,7 @@
             "description": "SUM Test 3"
           },
           {
-            "date": "2025-1-17",
+            "date": "2025-01-17",
             "description": "SUM Test 4"
           }
         ]
@@ -388,11 +388,11 @@
             "description": "SUM Test 1"
           },
           {
-            "date": "2024-11-6",
+            "date": "2024-11-06",
             "description": "SUM Test 2"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "SUM Test 2"
           },
           {
@@ -404,11 +404,11 @@
             "description": "SUM Test 3"
           },
           {
-            "date": "2025-1-13",
+            "date": "2025-01-13",
             "description": "SUM Test 4"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "SUM Test 4"
           }
         ]
@@ -420,7 +420,7 @@
             "description": "SUM Test 1"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "SUM Test 2"
           },
           {
@@ -428,7 +428,7 @@
             "description": "SUM Test 3"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "SUM Test 4"
           }
         ]
@@ -436,7 +436,7 @@
       "AI HL": {
         "assessments": [
           {
-            "date": "2024-10-9",
+            "date": "2024-10-09",
             "description": "SUM Test 1"
           },
           {
@@ -448,7 +448,7 @@
             "description": "SUM Test 3"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "SUM Test 4"
           }
         ]
@@ -464,11 +464,11 @@
             "description": "SUM Test 1"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "SUM Test 2"
           },
           {
-            "date": "2024-11-8",
+            "date": "2024-11-08",
             "description": "SUM Test 2"
           },
           {
@@ -496,23 +496,23 @@
             "description": "Stakeholder Project"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-1-17",
+            "date": "2025-01-17",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-16",
+            "date": "2025-04-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-5-15",
+            "date": "2025-05-15",
             "description": "Paper 3"
           }
         ]
@@ -532,31 +532,31 @@
             "description": "Stakeholder Project"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-1-17",
+            "date": "2025-01-17",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-16",
+            "date": "2025-04-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-5-15",
+            "date": "2025-05-15",
             "description": "Paper 3"
           },
           {
-            "date": "2025-5-16",
+            "date": "2025-05-16",
             "description": "Paper 3"
           }
         ]
@@ -568,19 +568,19 @@
             "description": "P1 Hybrid Block 1"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "P1 Part B"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-15",
+            "date": "2025-04-15",
             "description": "P2 + P3"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 3 (HL)"
           }
         ]
@@ -596,7 +596,7 @@
             "description": "P1 Hybrid Block 2"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "P1 Part B"
           },
           {
@@ -604,19 +604,19 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-11",
+            "date": "2025-03-11",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-15",
+            "date": "2025-04-15",
             "description": "P2 + P3"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 3 (HL)"
           }
         ]
@@ -632,19 +632,19 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2024-12-9",
+            "date": "2024-12-09",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-4-18",
+            "date": "2025-04-18",
             "description": "Paper 2"
           }
         ]
@@ -660,11 +660,11 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-18",
+            "date": "2025-04-18",
             "description": "Paper 2"
           }
         ]
@@ -680,15 +680,15 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2024-12-9",
+            "date": "2024-12-09",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "Paper 3 HL"
           },
           {
@@ -712,15 +712,15 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-18",
+            "date": "2025-04-18",
             "description": "Paper 2"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "Paper 3"
           }
         ]
@@ -729,18 +729,18 @@
         "assessments": [
           {
             "date": "2024-10-16",
-            "description": "Research Methods Quiz"
+            "description": "Research Methods Quiztest"
           },
           {
             "date": "2024-10-17",
             "description": "Research Methods Quiz"
           },
           {
-            "date": "2024-11-4",
+            "date": "2024-11-04",
             "description": "Paper 3"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Paper 3"
           },
           {
@@ -752,35 +752,35 @@
             "description": "Encultural Quiz"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-15",
+            "date": "2025-01-15",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1"
           }
         ]
@@ -796,11 +796,11 @@
             "description": "Research Methods Quiz"
           },
           {
-            "date": "2024-11-4",
+            "date": "2024-11-04",
             "description": "Research Methods Exam"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Research Methods Exam"
           },
           {
@@ -812,48 +812,47 @@
             "description": "Encultural Quiz"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-15",
+            "date": "2025-01-15",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1"
           }
         ]
       },
-
       "Geography HL": {
         "assessments": [
           {
-            "date": "2024-10-7",
+            "date": "2024-10-07",
             "description": "SUM Mapwork"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Paper 1"
           },
           {
@@ -861,19 +860,19 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "P1+P2"
           },
           {
-            "date": "2025-4-11",
+            "date": "2025-04-11",
             "description": "Paper 3"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "P1+P2"
           }
         ]
@@ -893,15 +892,15 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-3",
             "description": "P1+P2"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "P1+P2"
           }
         ]
@@ -913,7 +912,7 @@
       "BIO HL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Project"
           },
           {
@@ -921,23 +920,23 @@
             "description": "Unit 1 Topic Test"
           },
           {
-            "date": "2024-12-6",
+            "date": "2024-12-06",
             "description": "Unit 2 Test"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Lab Report"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "Lab report/project"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "Unit 3 Test"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Lab report"
           }
         ]
@@ -945,7 +944,7 @@
       "BIO SL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Project"
           },
           {
@@ -953,23 +952,23 @@
             "description": "Unit 1 Topic Test"
           },
           {
-            "date": "2024-12-6",
+            "date": "2024-12-06",
             "description": "Unit 2 Test"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Lab Report"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "Lab report/project"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "Unit 3 Test"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Lab report"
           }
         ]
@@ -977,7 +976,7 @@
       "Chemistry HL": {
         "assessments": [
           {
-            "date": "2024-9-20",
+            "date": "2024-09-20",
             "description": "Quiz: S1.1 & S1.4"
           },
           {
@@ -989,23 +988,23 @@
             "description": "Lab: Molar mass of volatile liquid"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "U1 U2 Test"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "U3 Test: Bonding"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Unit 4 Test: Periodicity"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Lab report: Combustion of alcohols"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Unit 5 Test: Energetics"
           }
         ]
@@ -1013,7 +1012,7 @@
       "Chemistry SL": {
         "assessments": [
           {
-            "date": "2024-9-19",
+            "date": "2024-09-19",
             "description": "Quiz: S1.1 & S1.4"
           },
           {
@@ -1025,23 +1024,23 @@
             "description": "Lab: Molar mass of volatile liquid"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "U1 U2 Test"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "U3 Test: Bonding"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "Unit 4 Test: Periodicity"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Lab report: Combustion of alcohols"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 5 Test: Energetics"
           }
         ]
@@ -1065,35 +1064,35 @@
             "description": "S1 A2 Group B"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "S1 A3 Group A"
           },
           {
-            "date": "2025-1-8",
+            "date": "2025-01-08",
             "description": "S1 A3 Group B"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "S2 A1 Group A"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "S2 A1 Group B"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "S2 A2 Group B"
           },
           {
-            "date": "2025-3-21",
+            "date": "2025-03-21",
             "description": "S2 A2 Group A"
           },
           {
-            "date": "2025-5-5",
+            "date": "2025-05-05",
             "description": "S2 A3 Group A"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "S2 A3 Group B"
           }
         ]
@@ -1117,40 +1116,40 @@
             "description": "S1 A2 Group B"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "S1 A3 Group A"
           },
           {
-            "date": "2025-1-8",
+            "date": "2025-01-08",
             "description": "S1 A3 Group B"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "S2 A1 Group A"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "S2 A1 Group B"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "S2 A2 Group B"
           },
           {
-            "date": "2025-3-21",
+            "date": "2025-03-21",
             "description": "S2 A2 Group A"
           },
           {
-            "date": "2025-5-5",
+            "date": "2025-05-05",
             "description": "S2 A3 Group A"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "S2 A3 Group B"
           }
         ]
       },
-      "DT HL & SL": {
+      "DT HL&SL": {
         "assessments": [
           {
             "date": "2024-10-25",
@@ -1161,7 +1160,7 @@
             "description": "Topic 7 (HL)"
           },
           {
-            "date": "2024-12-4",
+            "date": "2024-12-04",
             "description": "Topic 4 Test"
           }
         ]
@@ -1169,7 +1168,7 @@
       "ESS HL": {
         "assessments": [
           {
-            "date": "2024-9-11",
+            "date": "2024-09-11",
             "description": "Foundation"
           },
           {
@@ -1181,19 +1180,19 @@
             "description": "Human population"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Natural resources"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Climate change"
           },
           {
-            "date": "2025-3-19",
+            "date": "2025-03-19",
             "description": "Laws & Ethics"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "All Topics"
           }
         ]
@@ -1201,7 +1200,7 @@
       "ESS SL": {
         "assessments": [
           {
-            "date": "2024-9-11",
+            "date": "2024-09-11",
             "description": "Foundation"
           },
           {
@@ -1213,15 +1212,15 @@
             "description": "Human population"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Natural resources"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Climate change"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "All Topics"
           }
         ]
@@ -1229,7 +1228,7 @@
       "Physics HL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Physics Analysis Lab"
           },
           {
@@ -1237,19 +1236,19 @@
             "description": "Topic A Unit Test"
           },
           {
-            "date": "2024-12-2",
+            "date": "2024-12-02",
             "description": "Lab report on analysis + Evaluation"
           },
           {
-            "date": "2025-1-6",
+            "date": "2025-01-06",
             "description": "Topic B Unit Test"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "Exploration Lab Report"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "IA exploration"
           }
         ]
@@ -1257,7 +1256,7 @@
       "Physics SL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Physics Analysis Lab"
           },
           {
@@ -1265,19 +1264,19 @@
             "description": "Topic A Unit Test"
           },
           {
-            "date": "2024-12-2",
+            "date": "2024-12-02",
             "description": "Lab report on analysis + Evaluation"
           },
           {
-            "date": "2025-1-6",
+            "date": "2025-01-06",
             "description": "Topic B Unit Test"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "Exploration Lab Report"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-90",
             "description": "IA exploration"
           }
         ]
@@ -1297,31 +1296,31 @@
             "description": "PP-FORM-Crit B"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "PP-SUM-Draft"
           },
           {
-            "date": "2025-2-20",
+            "date": "2025-02-20",
             "description": "PP-SUM-Final"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "RP-SUM-Crit A"
           },
           {
-            "date": "2025-4-23",
+            "date": "2025-04-23",
             "description": "STP-FORM-Crit A"
           },
           {
-            "date": "2025-4-28",
+            "date": "2025-04-28",
             "description": "RP-SUM-Crit B"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "RP-SUM-Crit C"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "STP-SUM-Crit A"
           }
         ]
@@ -1337,23 +1336,23 @@
             "description": "PP-FORM-Crit B"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "PP-SUM-Draft"
           },
           {
-            "date": "2025-2-20",
+            "date": "2025-02-20",
             "description": "PP-SUM-Final"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "RP-SUM-Crit A"
           },
           {
-            "date": "2025-4-28",
+            "date": "2025-04-28",
             "description": "RP-SUM-Crit B"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "RP-SUM-Crit C"
           }
         ]
@@ -1361,7 +1360,7 @@
       "Visual Art HL & SL": {
         "assessments": [
           {
-            "date": "2024-9-20",
+            "date": "2024-09-20",
             "description": "Criterion A1"
           },
           {
@@ -1409,7 +1408,7 @@
             "description": "PP Unit 2"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "Criterion F"
           }
         ]
@@ -1425,23 +1424,23 @@
             "description": "Composition Draft"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "EMC Performing"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "Composition Final"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "EMC Final"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "Composition 2 Draft"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "CMM Project Proposal"
           }
         ]
@@ -1457,27 +1456,27 @@
             "description": "Composition Draft"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "EMC Performing"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "Composition Final"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "EMC Final"
           },
           {
-            "date": "2025-3-27",
+            "date": "2025-03-27",
             "description": "Composition 2 Draft"
           }
         ]
       },
-      "BIO HL ": {
+      "BIO_HL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Project"
           },
           {
@@ -1485,31 +1484,31 @@
             "description": "Unit 1 Topic Test"
           },
           {
-            "date": "2024-12-6",
+            "date": "2024-12-06",
             "description": "Unit 2 Test"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Lab Report"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "Lab report/project"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "Unit 3 Test"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Lab report"
           }
         ]
       },
-      "BIO SL ": {
+      "BIO_SL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Project"
           },
           {
@@ -1517,31 +1516,31 @@
             "description": "Unit 1 Topic Test"
           },
           {
-            "date": "2024-12-6",
+            "date": "2024-12-06",
             "description": "Unit 2 Test"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Lab Report"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "Lab report/project"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "Unit 3 Test"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Lab report"
           }
         ]
       },
-      "Chemistry HL ": {
+      "Chemistry_HL": {
         "assessments": [
           {
-            "date": "2024-9-20",
+            "date": "2024-09-20",
             "description": "Quiz: S1.1 & S1.4"
           },
           {
@@ -1553,31 +1552,31 @@
             "description": "Lab: Molar mass of volatile liquid"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "U1 U2 Test"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "U3 Test: Bonding"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Unit 4 Test: Periodicity"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Lab report: Combustion of alcohols"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "Unit 5 Test: Energetics"
           }
         ]
       },
-      "Chemistry SL ": {
+      "Chemistry_SL": {
         "assessments": [
           {
-            "date": "2024-9-19",
+            "date": "2024-09-19",
             "description": "Quiz: S1.1 & S1.4"
           },
           {
@@ -1589,28 +1588,28 @@
             "description": "Lab: Molar mass of volatile liquid"
           },
           {
-            "date": "2024-12-5",
+            "date": "2024-12-05",
             "description": "U1 U2 Test"
           },
           {
-            "date": "2025-1-9",
+            "date": "2025-01-09",
             "description": "U3 Test: Bonding"
           },
           {
-            "date": "2025-2-28",
+            "date": "2025-02-28",
             "description": "Unit 4 Test: Periodicity"
           },
           {
-            "date": "2025-3-28",
+            "date": "2025-03-28",
             "description": "Lab report: Combustion of alcohols"
           },
           {
-            "date": "2025-5-7",
+            "date": "2025-05-07",
             "description": "Unit 5 Test: Energetics"
           }
         ]
       },
-      "CS HL ": {
+      "CS_HL": {
         "assessments": [
           {
             "date": "2024-10-24",
@@ -1629,40 +1628,40 @@
             "description": "S1 A2 Group B"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "S1 A3 Group A"
           },
           {
-            "date": "2025-1-8",
+            "date": "2025-01-08",
             "description": "S1 A3 Group B"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "S2 A1 Group A"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "S2 A1 Group B"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "S2 A2 Group B"
           },
           {
-            "date": "2025-3-21",
+            "date": "2025-03-21",
             "description": "S2 A2 Group A"
           },
           {
-            "date": "2025-5-5",
+            "date": "2025-05-05",
             "description": "S2 A3 Group A"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "S2 A3 Group B"
           }
         ]
       },
-      "CS SL ": {
+      "CS_SL": {
         "assessments": [
           {
             "date": "2024-10-24",
@@ -1681,40 +1680,40 @@
             "description": "S1 A2 Group B"
           },
           {
-            "date": "2025-1-7",
+            "date": "2025-01-07",
             "description": "S1 A3 Group A"
           },
           {
-            "date": "2025-1-8",
+            "date": "2025-01-08",
             "description": "S1 A3 Group B"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "S2 A1 Group A"
           },
           {
-            "date": "2025-2-25",
+            "date": "2025-02-25",
             "description": "S2 A1 Group B"
           },
           {
-            "date": "2025-3-20",
+            "date": "2025-03-20",
             "description": "S2 A2 Group B"
           },
           {
-            "date": "2025-3-21",
+            "date": "2025-03-21",
             "description": "S2 A2 Group A"
           },
           {
-            "date": "2025-5-5",
+            "date": "2025-05-05",
             "description": "S2 A3 Group A"
           },
           {
-            "date": "2025-5-6",
+            "date": "2025-05-06",
             "description": "S2 A3 Group B"
           }
         ]
       },
-      "DT HL & SL ": {
+      "DT_HL&SL": {
         "assessments": [
           {
             "date": "2024-10-25",
@@ -1725,15 +1724,15 @@
             "description": "Topic 7 (HL)"
           },
           {
-            "date": "2024-12-4",
+            "date": "2024-12-04",
             "description": "Topic 4 Test"
           }
         ]
       },
-      "ESS HL": {
+      "ESS_HL": {
         "assessments": [
           {
-            "date": "2024-9-11",
+            "date": "2024-09-11",
             "description": "Foundation"
           },
           {
@@ -1745,27 +1744,27 @@
             "description": "Human population"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Natural resources"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Climate change"
           },
           {
-            "date": "2025-3-19",
+            "date": "2025-03-19",
             "description": "Laws & Ethics"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "All Topics"
           }
         ]
       },
-      "ESS SL ": {
+      "ESS_SL": {
         "assessments": [
           {
-            "date": "2024-9-11",
+            "date": "2024-09-11",
             "description": "Foundation"
           },
           {
@@ -1777,23 +1776,23 @@
             "description": "Human population"
           },
           {
-            "date": "2025-1-10",
+            "date": "2025-01-10",
             "description": "Natural resources"
           },
           {
-            "date": "2025-2-27",
+            "date": "2025-02-27",
             "description": "Climate change"
           },
           {
-            "date": "2025-5-8",
+            "date": "2025-05-08",
             "description": "All Topics"
           }
         ]
       },
-      "Physics HL ": {
+      "Physics_HL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Physics Analysis Lab"
           },
           {
@@ -1801,27 +1800,27 @@
             "description": "Topic A Unit Test"
           },
           {
-            "date": "2024-12-2",
+            "date": "2024-12-02",
             "description": "Lab report on analysis + Evaluation"
           },
           {
-            "date": "2025-1-6",
+            "date": "2025-01-06",
             "description": "Topic B Unit Test"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "Exploration Lab Report"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-09",
             "description": "IA exploration"
           }
         ]
       },
-      "Physics SL ": {
+      "Physics_SL": {
         "assessments": [
           {
-            "date": "2024-9-18",
+            "date": "2024-09-18",
             "description": "Physics Analysis Lab"
           },
           {
@@ -1829,24 +1828,24 @@
             "description": "Topic A Unit Test"
           },
           {
-            "date": "2024-12-2",
+            "date": "2024-12-02",
             "description": "Lab report on analysis + Evaluation"
           },
           {
-            "date": "2025-1-6",
+            "date": "2025-01-06",
             "description": "Topic B Unit Test"
           },
           {
-            "date": "2025-2-24",
+            "date": "2025-02-24",
             "description": "Exploration Lab Report"
           },
           {
-            "date": "2025-5-9",
+            "date": "2025-05-90",
             "description": "IA exploration"
           }
         ]
       },
-      "BM Megan ": {
+      "BM_Megan": {
         "assessments": [
           {
             "date": "2024-11-13",
@@ -1857,28 +1856,28 @@
             "description": "Stakeholder Project"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-1-17",
+            "date": "2025-01-17",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-16",
+            "date": "2025-04-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-5-15",
+            "date": "2025-05-15",
             "description": "Paper 3"
           }
         ]
       },
-      "BM Jorge ": {
+      "BM_Jorge": {
         "assessments": [
           {
             "date": "2024-11-13",
@@ -1893,60 +1892,60 @@
             "description": "Stakeholder Project"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-1-17",
+            "date": "2025-01-17",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-16",
+            "date": "2025-04-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-5-15",
+            "date": "2025-05-15",
             "description": "Paper 3"
           },
           {
-            "date": "2025-5-16",
+            "date": "2025-05-16",
             "description": "Paper 3"
           }
         ]
       },
-      "Economics Jeff ": {
+      "Economics_Jeff": {
         "assessments": [
           {
             "date": "2024-10-15",
             "description": "P1 Hybrid Block 1"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "P1 Part B"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-15",
+            "date": "2025-04-15",
             "description": "P2 + P3"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 3 (HL)"
           }
         ]
       },
-      "Economics Benard ": {
+      "Economics_Benard": {
         "assessments": [
           {
             "date": "2024-10-15",
@@ -1957,7 +1956,7 @@
             "description": "P1 Hybrid Block 2"
           },
           {
-            "date": "2024-11-7",
+            "date": "2024-11-07",
             "description": "P1 Part B"
           },
           {
@@ -1965,24 +1964,24 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-11",
+            "date": "2025-03-11",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-15",
+            "date": "2025-04-15",
             "description": "P2 + P3"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 3 (HL)"
           }
         ]
       },
-      "History HL George ": {
+      "History_HL_George": {
         "assessments": [
           {
             "date": "2024-10-17",
@@ -1993,24 +1992,24 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2024-12-9",
+            "date": "2024-12-09",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-4-18",
+            "date": "2025-04-18",
             "description": "Paper 2"
           }
         ]
       },
-      "History SL George ": {
+      "History_SL_George": {
         "assessments": [
           {
             "date": "2024-10-17",
@@ -2021,16 +2020,16 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-4-18",
+            "date": "2025-04-18",
             "description": "Paper 2"
           }
         ]
       },
-      "History HL Sagingaly ": {
+      "History_HL_Sagingaly": {
         "assessments": [
           {
             "date": "2024-10-17",
@@ -2041,40 +2040,16 @@
             "description": "P1 + half of P2"
           },
           {
-            "date": "2024-12-9",
+            "date": "2024-12-09",
             "description": "Paper 3 HL"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "Paper 3 HL"
-          },
-          {
-            "date": "2025-4-18",
-            "description": "Paper 2"
-          },
-          {
-            "date": "2025-5-12",
-            "description": "Paper 3"
-          }
-        ]
-      },
-      "History SL Sagingaly ": {
-        "assessments": [
-          {
-            "date": "2024-10-17",
-            "description": "Paper 1"
-          },
-          {
-            "date": "2024-11-14",
-            "description": "P1 + half of P2"
-          },
-          {
-            "date": "2025-1-16",
-            "description": "Paper 2"
           },
           {
             "date": "2025-4-18",
@@ -2086,7 +2061,31 @@
           }
         ]
       },
-      "Psychology HL ": {
+      "History_SL_Sagingaly": {
+        "assessments": [
+          {
+            "date": "2024-10-17",
+            "description": "Paper 1"
+          },
+          {
+            "date": "2024-11-14",
+            "description": "P1 + half of P2"
+          },
+          {
+            "date": "2025-01-16",
+            "description": "Paper 2"
+          },
+          {
+            "date": "2025-04-18",
+            "description": "Paper 2"
+          },
+          {
+            "date": "2025-05-12",
+            "description": "Paper 3"
+          }
+        ]
+      },
+      "Psychology_HL": {
         "assessments": [
           {
             "date": "2024-10-16",
@@ -2097,11 +2096,11 @@
             "description": "Research Methods Quiz"
           },
           {
-            "date": "2024-11-4",
+            "date": "2024-11-04",
             "description": "Paper 3"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Paper 3"
           },
           {
@@ -2113,40 +2112,40 @@
             "description": "Encultural Quiz"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-15",
+            "date": "2025-01-15",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1"
           }
         ]
       },
-      "Psychology SL ": {
+      "Psychology_SL": {
         "assessments": [
           {
             "date": "2024-10-16",
@@ -2157,11 +2156,11 @@
             "description": "Research Methods Quiz"
           },
           {
-            "date": "2024-11-4",
+            "date": "2024-11-04",
             "description": "Research Methods Exam"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Research Methods Exam"
           },
           {
@@ -2173,47 +2172,47 @@
             "description": "Encultural Quiz"
           },
           {
-            "date": "2025-1-14",
+            "date": "2025-01-14",
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-15",
+            "date": "2025-01-15",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-12",
+            "date": "2025-03-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-3-13",
+            "date": "2025-03-13",
             "description": "Paper 1"
           },
           {
-            "date": "2025-4-9",
+            "date": "2025-04-09",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-4-10",
+            "date": "2025-04-10",
             "description": "Neurotransmitters & Hormones Quiz"
           },
           {
-            "date": "2025-5-12",
+            "date": "2025-05-12",
             "description": "Paper 1"
           },
           {
-            "date": "2025-5-13",
+            "date": "2025-05-13",
             "description": "Paper 1"
           }
         ]
       },
-      "Geography HL ": {
+      "Geography_HL": {
         "assessments": [
           {
-            "date": "2024-10-7",
+            "date": "2024-10-07",
             "description": "SUM Mapwork"
           },
           {
-            "date": "2024-11-5",
+            "date": "2024-11-05",
             "description": "Paper 1"
           },
           {
@@ -2221,24 +2220,24 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-03",
             "description": "P1+P2"
           },
           {
-            "date": "2025-4-11",
+            "date": "2025-04-11",
             "description": "Paper 3"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "P1+P2"
           }
         ]
       },
-      "Geography SL ": {
+      "Geography_SL": {
         "assessments": [
           {
             "date": "2024-10-7",
@@ -2253,15 +2252,15 @@
             "description": "Paper 1"
           },
           {
-            "date": "2025-1-16",
+            "date": "2025-01-16",
             "description": "Paper 2"
           },
           {
-            "date": "2025-3-3",
+            "date": "2025-03-3",
             "description": "P1+P2"
           },
           {
-            "date": "2025-5-14",
+            "date": "2025-05-14",
             "description": "P1+P2"
           }
         ]
