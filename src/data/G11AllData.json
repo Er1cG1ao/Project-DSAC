@@ -1473,6 +1473,22 @@
           }
         ]
       },
+      "Film HL&SL": {
+        "assessments": [
+          {
+            "date": "2024-10-24",
+            "description": "TA First Draft"
+          },
+          {
+            "date": "2024-10-31",
+            "description": "TA Final"
+          },
+          {
+            "date": "2025-4-8",
+            "description": "Comparative Study"
+          }
+        ]
+      },
       "BIO_HL": {
         "assessments": [
           {
